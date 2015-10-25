@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Blog Post HTML Template (http://startbootstrap.com)
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -30,3 +30,8 @@ footer {
 .box-shadow--16dp {
     box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2)
 }
+
+/* to apply, use the following syntax while applying to any particular class
+
+	<div class="panel panel-default box-shadow--2dp"> ... </div>
+*/
