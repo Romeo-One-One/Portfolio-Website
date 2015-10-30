@@ -42,8 +42,20 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
+*/
 
 p {
     margin-bottom: 20px;
@@ -52,7 +64,7 @@ p {
 }
 
 .bg-officers {
-  background-image:url(/img/flower-header.jpg);
+  background-image:url(/img/featured/hotdg-test1.jpg);
 }
 
 .bg-primary {
@@ -496,4 +508,8 @@ body {
 }
 .box-shadow--16dp {
     box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2)
+}
+
+.paul {
+  color:white;
 }
