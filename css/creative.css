@@ -51,6 +51,10 @@ p {
     line-height: 1.5;
 }
 
+.bg-officers {
+  background-image:url(/img/flower-header.jpg);
+}
+
 .bg-primary {
     background-color: #f05f40;
 }
