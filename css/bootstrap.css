@@ -3153,11 +3153,21 @@ fieldset[disabled] .btn-success.active {
   color: #5cb85c;
   background-color: #fff;
 }
+
+.btn-info {
+  color: #8e3530;
+  background-color: #8e3530;
+  border-color: #46b8da;
+}
+
+/*
 .btn-info {
   color: #fff;
   background-color: #5bc0de;
   border-color: #46b8da;
 }
+*/
+
 .btn-info:hover,
 .btn-info:focus,
 .btn-info.focus,
