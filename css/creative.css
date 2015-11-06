@@ -529,3 +529,7 @@ body {
   margin-bottom: 100px;
   text-shadow: 1px 1px 10px rgba(0,0,0,0.3);
 }
+
+.darklite {
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.2);
+}
