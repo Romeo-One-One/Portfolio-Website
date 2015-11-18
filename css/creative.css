@@ -70,7 +70,7 @@ p {
 }
 
 .bg-officers {
-  background-image:url(/img/featured/hotdg-test10.jpg);
+  background-image:url(/img/featured/hotdg-test11.jpg);
 }
 
 .bg-primary {
@@ -200,7 +200,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/thu-header.jpg);
+    background-image: url(../img/thu-header-small.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
