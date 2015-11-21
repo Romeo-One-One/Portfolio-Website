@@ -85,7 +85,7 @@
 
         <div class="row">
             <div class="thu-top">
-            <img class="img-responsive" src="img/thu-test1.jpg" alt="">
+            <img class="img-responsive grow" src="img/thu-test1.jpg" alt="">
             </div>
         </div>
 
@@ -93,12 +93,27 @@
     <!-- /.container -->
 
     <!-- jQuery Version 1.11.1 -->
-    <script src="js/jquery.js"></script>
+    <script src="js/jquery-2.1.4.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
-    <script src="js/thu-test.js"></script>
+    <script>
+    var test = true;
+        $('.thu-top').click(function() {
+            if (test) {
+                $('.thu-top').animate({
+                      width: '50%'
+                }, 500);
+            } else {
+                $('.thu-top').animate({
+                      width: '100%'
+                }, 500);
+            }
+
+            test = !test;
+        });
+    </script>
 
 </body>
 
