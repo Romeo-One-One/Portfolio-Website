@@ -3258,6 +3258,13 @@ fieldset[disabled] .btn-warning.active {
   background-color: #d9534f;
   border-color: #d43f3a;
 }
+
+.btn-rad {
+  color: #fff;
+  background-color: #40fa1a;
+  border-color: #6ed43e;
+}
+
 .btn-danger:hover,
 .btn-danger:focus,
 .btn-danger.focus,
