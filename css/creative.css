@@ -541,3 +541,12 @@ body {
 .greentxt{
     color: rgb(62, 230, 47);
 }
+
+.bg-darkblue{
+    color: #fff;
+    background-color: rgb(13, 35, 66);
+}
+
+.whitelite{
+  text-shadow: 1px 1px 10px rgba(255, 255, 255, 0.2)
+}
