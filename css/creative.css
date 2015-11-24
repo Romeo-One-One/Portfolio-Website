@@ -533,3 +533,11 @@ body {
 .darklite {
   text-shadow: 1px 1px 10px rgba(0,0,0,0.2);
 }
+
+.rad-glow{
+    text-shadow: 1px 1px 10px rgba(144, 254, 58, 0.4);
+}
+
+.greentxt{
+    color: rgb(62, 230, 47);
+}
