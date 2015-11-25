@@ -531,9 +531,13 @@ body {
 }
 
 .rad-text{
-  color:rgb(36, 240, 62);
+  color:rgb(22, 246, 51);
 }
 
 .rad-glow{
-  text-shadow: 1px 1px 10px rgba(113, 228, 42, 0.41)
+  text-shadow: 1px 1px 10px rgba(114, 246, 32, 0.4);
+}
+
+.bg-darkblue{
+  background-color: rgb(9, 9, 32);
 }
