@@ -518,12 +518,12 @@ body {
   text-shadow: 1px 1px 10px rgba(114, 246, 32, 0.4);
 }
 
-.bg-darkblue{
-  background-color: rgb(9, 9, 32);
+.ash-foot{
+  background-color: rgb(68, 69, 63);
 }
 
-.sparks{
-  color: rgb(255, 255, 255);
+.wax{
+  color: rgb(225, 226, 218);
 }
 .grace{
   background-color: rgb(0,0,0);
