@@ -220,7 +220,7 @@ header .header-content .header-content-inner h1 {
     margin-bottom: 0;
     text-transform: uppercase;
     font-weight: 700;
-    text-shadow: 1px 1px 10px rgba(255,255,255,0.3);
+    text-shadow: 1px 1px 5px rgba(255,255,255,0.3);
 }
 
 header .header-content .header-content-inner hr {
@@ -503,28 +503,17 @@ body {
   color:white;
   text-shadow: 1px 1px 10px rgba(255,255,255,0.3);
 }
-
-.nareena {
-  color:white;
-  margin-bottom: 100px;
-  text-shadow: 1px 1px 10px rgba(0,0,0,0.3);
-}
-
 .rad-text{
-  color:rgb(22, 246, 51);
+  color:rgb(4, 241, 35);
 }
 
 .rad-glow{
-  text-shadow: 1px 1px 10px rgba(114, 246, 32, 0.4);
+  text-shadow: 1px 1px 10px rgba(110, 255, 20, 0.55);
 }
-
-.ash-foot{
-  background-color: rgb(68, 69, 63);
-}
-
 .wax{
   color: rgb(225, 226, 218);
 }
-.grace{
-  background-color: rgb(0,0,0);
+
+.auxilia{
+  background-color: rgb(234, 241, 194);
 }
