@@ -64,11 +64,6 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
-
-.bg-nareena {
-  background-image:url(/img/custom_portfolio/Nareena4.jpg)
-}
-
 .bg-officers {
   background-image:url(/img/featured/hotdg-test11.jpg);
 }
@@ -200,7 +195,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/nareena-header.jpg);
+    background-image: url(../img/nareena-header2.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
