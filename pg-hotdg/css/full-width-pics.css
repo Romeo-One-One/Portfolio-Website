@@ -18,7 +18,7 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background-image:url(../pg-hotdg/img/hotdg_banner.jpg);
     padding: 100px 0;
 }
 
