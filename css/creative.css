@@ -512,3 +512,14 @@ body {
 .auxilia{
   background-color: rgb(234, 241, 194);
 }
+
+.headlights{
+  background-image: url('/img/headlight-backing.jpg');
+  width: auto;
+  height: auto;
+  position: center;
+}
+
+.bg-camera{
+  background-image: url('/img/AE1.jpg');
+}
