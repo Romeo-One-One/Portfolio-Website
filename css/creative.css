@@ -66,6 +66,7 @@ p {
 }
 .bg-officers {
   background-image:url(/img/featured/hotdg-test11.jpg);
+  background-position:center;
 }
 
 .bg-primary {
@@ -516,11 +517,11 @@ body {
   background-color: rgb(234, 241, 194);
 }
 
-.headlights{
-  background-image: url('/img/headlight-backing.jpg');
+.balcony{
+  background-image: url('/img/balconyLeaves.jpg');
   width: auto;
   height: auto;
-  position: center;
+  background-position: center;
 }
 
 .bg-camera{
