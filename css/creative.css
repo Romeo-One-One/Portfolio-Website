@@ -65,7 +65,7 @@ p {
     line-height: 1.5;
 }
 .bg-officers {
-  background-image:url(/img/featured/hotdg-test11.jpg);
+  background-image:url(/img/featured/hotdgBanner.jpg);
   background-position:center;
 }
 
@@ -196,7 +196,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/nareena-header3.jpg);
+    background-image: url(../img/headerCQ.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
