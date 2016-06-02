@@ -517,5 +517,8 @@ body {
 
 .navyGround{
   background-color: rgb(10, 11, 41);
-  margin-top: 100px;
+}
+
+.topPad{
+  margin-top: 50px;
 }
