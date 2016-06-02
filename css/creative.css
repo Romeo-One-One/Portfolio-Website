@@ -261,7 +261,7 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
-    color: rgba(255, 255, 255, 0.76);
+    color: rgba(224, 224, 224, 1);
     text-shadow: 1px 1px 10px rgba(255,255,255,0.3);
 }
 
@@ -511,9 +511,11 @@ body {
   text-shadow: 1px 1px 10px rgba(110, 255, 20, 0.55);
 }
 .wax{
-  color: rgb(225, 226, 218);
+  color: rgba(224, 224, 224, 1);
+  text-shadow: 1px 1px 10px rgba(149, 149, 149, 0.55);
 }
 
 .navyGround{
   background-color: rgb(10, 11, 41);
+  margin-top: 100px;
 }
