@@ -261,6 +261,7 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
+    color: rgba(255, 255, 255, 0.76);
     text-shadow: 1px 1px 10px rgba(255,255,255,0.3);
 }
 
@@ -513,8 +514,8 @@ body {
   color: rgb(225, 226, 218);
 }
 
-.creamground{
-  background-color: rgb(245, 235, 144);
+.navyGround{
+  background-color: rgb(10, 11, 41);
 }
 
 .bg-camera{
