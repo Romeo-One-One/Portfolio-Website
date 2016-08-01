@@ -65,8 +65,12 @@ p {
     line-height: 1.5;
 }
 .bg-officers {
-  background-image:url(/img/featured/hotdgBanner.jpg);
+  background-image:url(/img/featured/hotdgBanner2.jpg);
   background-position:center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 .bg-primary {
