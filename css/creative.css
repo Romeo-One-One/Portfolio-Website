@@ -518,11 +518,9 @@ body {
   color: rgba(224, 224, 224, 1);
   text-shadow: 1px 1px 10px rgba(149, 149, 149, 0.55);
 }
-
 .navyGround{
   background-color: rgb(10, 11, 21);
 }
-
 .topPad{
   margin-top: 50px;
 }
@@ -530,7 +528,7 @@ body {
 /* Classes Imported from One Page Wonder */
 
 .featurette-divider {
-    margin: 80px 0;
+    margin: 40px 0;
 }
 
 .featurette {
