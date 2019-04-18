@@ -65,7 +65,7 @@ p {
     line-height: 1.5;
 }
 .bg-officers {
-  background-image:url(/img/featured/hotdgBanner2.jpg);
+  background-image:url(/img/featured/hotdgBanner1.jpg);
   background-position:center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -200,7 +200,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/headerMT.jpg);
+    background-image: url(../img/jeanieBanner.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
