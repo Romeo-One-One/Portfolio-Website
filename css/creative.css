@@ -200,7 +200,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/jeanieBanner.jpg);
+    background-image: url(../img/featured/dgPromoWinter2018_darkerSlightBlur.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -520,6 +520,15 @@ body {
 }
 .navyGround{
   background-color: rgb(10, 11, 21);
+}
+.navyGallery{
+  background-color: rgb(10, 11, 21);
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 .topPad{
   margin-top: 50px;
